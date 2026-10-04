@@ -1,2 +1,2 @@
 # itdepartmentpl-lgtm.github.io
-It is a Test Website. 1.1
+It is a Test Website. 1.2
