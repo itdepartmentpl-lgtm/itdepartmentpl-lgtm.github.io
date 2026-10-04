@@ -1,1 +1,7 @@
-theme: jekyll-theme-minimal
+
+title: Websiter.pl
+description: Testing website
+twitter_username: Zbych Twitter username
+github_username: Zbych GitHub username
+theme: jekyll-theme-cayman
+#theme: jekyll-theme-minimal
